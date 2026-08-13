@@ -110,7 +110,7 @@ gates/                   ← deterministic checks BEFORE the action executes
 
 **Marcos Corsato** — 30 anos atravessando os dois lados do balanço: 10 em gestão financeira, 20 em dados e tecnologia. / 30 years across both sides of the balance sheet: 10 in financial management, 20 in data & technology.
 
-- Newsletter: [CFO&IA — Radar](https://www.linkedin.com/in/marcoscorsato) · Consultoria: [Fulcria](https://fulcria.ia.br) · YouTube: [@MyOpenClaw](https://youtube.com/@MyOpenClaw)
+- Newsletter: [CFO&IA — Radar](https://www.linkedin.com/in/marcos-corsato) · Consultoria: [Fulcria](https://fulcria.com.br) · YouTube: [@MyOpenClaw](https://youtube.com/@MyOpenClaw)
 
 Artigo de referência / Reference article: *"CONSTITUIÇÃO.md — a camada que falta entre o seu agente de IA e o seu balanço"* (LinkedIn).
 
