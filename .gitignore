@@ -1,0 +1,9 @@
+# Telemetria gerada pelos gates (C3) — nunca versionada
+telemetria_custo.jsonl
+relatorios/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

